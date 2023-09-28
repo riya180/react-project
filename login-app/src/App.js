@@ -1,11 +1,11 @@
 import './App.css';
-
+import Form from './form';
 function App() {
   return (
-    <div>
-      <h2> hello riya</h2>
-      
-    </div>
+  
+      <>
+      < Form/>
+    </>
   );
 }
 
