@@ -45,3 +45,24 @@ button
 
 
 }
+ button:hover
+ {
+   background-color:#4caf50 ;
+ }
+ .header
+ {
+  width: 95%;
+  background-color: rgb(243, 240, 243);
+  padding: 1px 20px;
+  
+ }
+ .ui-define
+ {
+  background-color:rgb(243, 240, 243); 
+  margin-left: 25%;
+  width: 50%;
+  padding: 20px 30px;
+  margin-top: 5%;
+  
+
+ }
